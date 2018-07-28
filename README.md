@@ -1,2 +1,2 @@
 # Artificial_Neural_Network
-Kaggle Titanic Challence using ANN
+Applying Artificial Neural Network on Breast Cancer Data
