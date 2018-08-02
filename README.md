@@ -35,3 +35,6 @@ It resulted in this set of accuracies:
 
 with a mean of 0.9615, which is close to the initial testing accuracy.
 
+## Author
+Mihai Groza
+
