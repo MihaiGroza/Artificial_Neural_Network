@@ -7,6 +7,8 @@ Apply an Artificial Neural Network model on Wisconsin Breast Cancer Data to pred
 Data set consists of 699 instances with 9 relevant attributes.
 Training and testing split is 80-20
 
+For More Information on the Data: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
+
 ## Neural Network Structure
 
 The Neural Network will contain 3 layers
