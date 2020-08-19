@@ -1,5 +1,4 @@
-# Artificial_Neural_Network
-
+# Predicting Tumours
 ## Goal
 
 Apply an Artificial Neural Network model on Wisconsin Breast Cancer Data to predict if tumour is Benign or Malignant. 
